@@ -95,13 +95,21 @@ header {
 
 .picture_profile {
     border-radius: 100%;
-    height: 205px;
-    width: 200px;
+    object-fit: cover;
+    height: 20%;
+    width: 20%;
     margin-top: 25px;
+    box-shadow: 0 0 30px black;
 }
 
 .picture_profile:hover{
     cursor: zoom-in;
+}
+
+.picture_link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .paragraph__about{
