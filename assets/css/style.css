@@ -178,15 +178,11 @@ footer {
 }
 
 .li_burgundy:hover {
-    background: linear-gradient(to right, white 90%, #782221 1%);
+    background: linear-gradient(to right, burlywood 90%, #782221 1%);
     border-color: #782221;
-    border-style: solid;
-    border-width: 2px;
 }
 
 .p_burgundy:hover {
-    background: linear-gradient(to right, white 90%, #782221 1%);
+    background: linear-gradient(to right, burlywood 90%, #782221 1%);
     border-color: #782221;
-    border-style: solid;
-    border-width: 2px;
 }
